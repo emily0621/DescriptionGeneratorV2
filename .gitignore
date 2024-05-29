@@ -1,0 +1,5 @@
+Tokenizer.pickle
+Decoder.weights.h5
+Encoder.weights.h5
+notebooks/models
+notebooks/temp
